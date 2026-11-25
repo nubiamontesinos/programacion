@@ -28,6 +28,7 @@ public class CalculadoraSalarioApp {
 		System.out.println("El salario por trabajar " + horasTrabajadas + " horas y " + horasExtra
 				+ " de ellas extra, es de " + salario);
 
+		sc.close();
 	}
 
 }

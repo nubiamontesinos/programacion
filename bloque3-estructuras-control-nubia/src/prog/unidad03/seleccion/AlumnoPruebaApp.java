@@ -25,6 +25,8 @@ public class AlumnoPruebaApp {
 		else {
 			System.out.println("El alumno ha suspendido con una media de "+media);
 		}
+		
+		sc.close();
 	}
 
 }

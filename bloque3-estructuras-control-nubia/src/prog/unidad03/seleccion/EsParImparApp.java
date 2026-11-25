@@ -20,7 +20,7 @@ public class EsParImparApp {
 			System.out.println("El número "+numero+" es impar");
 		}
 		
-		
+		sc.close();
 	}
 
 }

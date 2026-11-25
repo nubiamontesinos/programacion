@@ -32,7 +32,8 @@ public class ClasificaTriangulosApp {
 		else {
 			System.out.println("El triángulo es escaleno");
 		}
-		// equilatero, isóceles o escaleno
+		
+		sc.close();
 	}
 
 }

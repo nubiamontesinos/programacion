@@ -17,6 +17,7 @@ public class NumeroCifrasApp {
 		// uso cifras.length para obtener la cantidad de cifras del número
 		System.out.println("El número "+numero+" tiene "+cifras.length()+" cifras");
 		
+		sc.close();
 	}
 
 }

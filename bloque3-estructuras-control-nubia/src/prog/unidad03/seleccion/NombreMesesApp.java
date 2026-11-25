@@ -63,6 +63,8 @@ public class NombreMesesApp {
 		}
 
 		}
+		
+		sc.close();
 
 	}
 
